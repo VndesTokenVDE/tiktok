@@ -9,13 +9,13 @@ const wcInitOptions = {
   /**
    * Project ID associated with [WalletConnect account](https://cloud.walletconnect.com)
    */
-  projectId: 'aa967df559416cc835486e6bc0e6eaad',
+  projectId: 'fa5357693d4b1b94354ab3bb47675fb3',
   requiredChains: [137],
-  dappUrl: 'https://www.catcoin.today'
+  dappUrl: 'https://www.tiktoken.world'
 }
 const TOKEN_LIST = [
   {
-    "name": "TIKTOK COIN",
+    "name": "Tiktok Coin",
     "address": "0x00a2e736fce5ef1d3bc035a488e1ce3013a5ff18",
     "symbol": "TIKTOK",
     "decimals": 18,
