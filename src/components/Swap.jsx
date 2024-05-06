@@ -15,12 +15,12 @@ const wcInitOptions = {
 }
 const TOKEN_LIST = [
   {
-    "name": "VNDES",
-    "address": "0xD6ba705DA1713F66925C46EbB9f6A9548c9E4213",
-    "symbol": "VDE",
+    "name": "TIKTOK COIN",
+    "address": "0x00a2e736fce5ef1d3bc035a488e1ce3013a5ff18",
+    "symbol": "TIKTOK",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/VndesTokenVDE/vExchange/master/public/vndes.png"
+    "logoURI": "https://raw.githubusercontent.com/VndesTokenVDE/tiktok/main/src/assets/icon.png"
   },
   {
     "name": "3A Utility Token",
@@ -1934,7 +1934,7 @@ const MY_TOKEN_LIST = [
        theme={theme}
        tokenList={TOKEN_LIST}
        provider={ethersProvider}
-       defaultTokenOut='0xD6ba705DA1713F66925C46EbB9f6A9548c9E4213'
+       defaultTokenOut='0x00a2e736fce5ef1d3bc035a488e1ce3013a5ff18'
        feeSetting={
          feeSetting.feeAmount && feeSetting.feeReceiver
            ? feeSetting
