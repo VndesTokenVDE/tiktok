@@ -130,8 +130,8 @@ const Exchange = () => {
 	  <div className="absolute z-[0] w-[60%] h-[60%] -right-[50%] rounded-full blue__gradient" />
 	  <div className="w-full flex justify-between items-center md:flex-row flex-col sm:mb-16 mb-6 relative z-[1]">
 		<span className={styles.heading2}>
-		  <h1 className={styles.heading2}>VNDES SWAP</h1>
-		  <p className={styles.paragraph}>Exchange USD with VDE</p>
+		  <h1 className={styles.heading2}>TIKTOK SWAP</h1>
+		  <p className={styles.paragraph}>Let's invest and share the profits together!</p>
 		
 		</span>
 		<div className="w-full md:mt-0 mt-6">
